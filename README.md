@@ -46,6 +46,15 @@ All prizes are virtual; no real money is awarded.
 3. Select an iOS 17 or later simulator and run.
 4. For a physical iPhone, select your signing team first.
 
+## Screenshots
+
+<p>
+  <img src="docs/screenshots/home.png" width="220" alt="Home and statistics">
+  <img src="docs/screenshots/game.png" width="220" alt="Quiz gameplay">
+  <img src="docs/screenshots/audience.png" width="220" alt="Audience lifeline">
+  <img src="docs/screenshots/history.png" width="220" alt="Game history">
+</p>
+
 ## About
 
 Created as a hands-on project to learn native iOS development
