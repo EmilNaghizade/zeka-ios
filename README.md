@@ -49,10 +49,11 @@ All prizes are virtual; no real money is awarded.
 ## Screenshots
 
 <p>
-  <img src="docs/screenshots/home.png" width="220" alt="Home and statistics">
-  <img src="docs/screenshots/game.png" width="220" alt="Quiz gameplay">
-  <img src="docs/screenshots/audience.png" width="220" alt="Audience lifeline">
-  <img src="docs/screenshots/history.png" width="220" alt="Game history">
+  <img src="docs/home.png" width="220" alt="Home and statistics">
+  <img src="docs/game.png" width="220" alt="Quiz gameplay">
+  <img src="docs/audience.png" width="220" alt="Audience lifeline">
+ <img src="docs/rules.png" width="220" alt="Game rules">
+  <img src="docs/history.png" width="220" alt="Game history">
 </p>
 
 ## About
