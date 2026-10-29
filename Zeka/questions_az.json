@@ -1,0 +1,567 @@
+[
+  {
+    "id": "geo_001",
+    "category": "Coğrafiya",
+    "difficulty": 1,
+    "text": "Azərbaycanın paytaxtı hansı şəhərdir?",
+    "answers": [
+      "Gəncə",
+      "Bakı",
+      "Şəki",
+      "Lənkəran"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Azərbaycanın paytaxtı Bakı şəhəridir."
+  },
+  {
+    "id": "science_001",
+    "category": "Elm",
+    "difficulty": 1,
+    "text": "Suyun kimyəvi formulu hansıdır?",
+    "answers": [
+      "CO₂",
+      "O₂",
+      "H₂O",
+      "NaCl"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Su molekulu iki hidrogen və bir oksigen atomundan ibarətdir."
+  },
+  {
+    "id": "math_001",
+    "category": "Riyaziyyat",
+    "difficulty": 1,
+    "text": "Üçbucağın neçə tərəfi var?",
+    "answers": ["2", "3", "4", "5"],
+    "correctAnswerIndex": 1,
+    "explanation": "Üçbucağın üç tərəfi və üç təpəsi var."
+  },
+  {
+    "id": "space_001",
+    "category": "Kosmos",
+    "difficulty": 1,
+    "text": "Günəş sistemində ən böyük planet hansıdır?",
+    "answers": ["Yer", "Mars", "Yupiter", "Venera"],
+    "correctAnswerIndex": 2,
+    "explanation": "Günəş sistemində ən böyük planet Yupiterdir."
+  },
+  {
+    "id": "literature_001",
+    "category": "Ədəbiyyat",
+    "difficulty": 1,
+    "text": "“Xəmsə”si ilə tanınan Nizami hansı şəhərin adı ilə anılır?",
+    "answers": ["Şamaxı", "Təbriz", "Bakı", "Gəncə"],
+    "correctAnswerIndex": 3,
+    "explanation": "Nizami Gəncəvi Gəncə şəhərinin adı ilə tanınır."
+  },
+  {
+    "id": "science_002",
+    "category": "Elm",
+    "difficulty": 2,
+    "text": "Kimyəvi elementin atom nömrəsi nəyi göstərir?",
+    "answers": [
+      "Neytronların sayını",
+      "Protonların sayını",
+      "Proton və neytronların cəmini",
+      "Elektron təbəqələrinin sayını"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Atom nömrəsi atomun nüvəsindəki protonların sayıdır."
+  },
+  {
+    "id": "geo_002",
+    "category": "Coğrafiya",
+    "difficulty": 2,
+    "text": "Yer kürəsinin ən böyük okeanı hansıdır?",
+    "answers": [
+      "Atlantik okeanı",
+      "Hind okeanı",
+      "Sakit okean",
+      "Şimal Buzlu okeanı"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Sakit okean sahəsinə görə Yer kürəsinin ən böyük okeanıdır."
+  },
+  {
+    "id": "math_002",
+    "category": "Riyaziyyat",
+    "difficulty": 2,
+    "text": "200 ədədinin 15 faizi neçədir?",
+    "answers": ["15", "20", "30", "40"],
+    "correctAnswerIndex": 2,
+    "explanation": "200 × 15 / 100 = 30."
+  },
+  {
+    "id": "tech_002",
+    "category": "Texnologiya",
+    "difficulty": 2,
+    "text": "İkilik say sistemində 101 ədədi onluq sistemdə neçədir?",
+    "answers": ["3", "5", "6", "9"],
+    "correctAnswerIndex": 1,
+    "explanation": "101 ikilik sistemdə 1 × 4 + 0 × 2 + 1 × 1 = 5 deməkdir."
+  },
+  {
+    "id": "science_003",
+    "category": "Elm",
+    "difficulty": 2,
+    "text": "Elektrik müqavimətinin SI vahidi hansıdır?",
+    "answers": ["Volt", "Amper", "Om", "Vatt"],
+    "correctAnswerIndex": 2,
+    "explanation": "Elektrik müqaviməti om ilə ölçülür və Ω işarəsi ilə göstərilir."
+  },
+  {
+    "id": "math_003",
+    "category": "Riyaziyyat",
+    "difficulty": 3,
+    "text": "Düzbucaqlı üçbucaqda katetlər 6 və 8 sm-dir. Hipotenuz neçə sm-dir?",
+    "answers": ["9", "10", "12", "14"],
+    "correctAnswerIndex": 1,
+    "explanation": "Pifaqor teoreminə görə hipotenuzun kvadratı 6² + 8² = 100-dür. Hipotenuz 10 sm-dir."
+  },
+  {
+    "id": "science_004",
+    "category": "Elm",
+    "difficulty": 3,
+    "text": "Qızılın kimyəvi simvolu hansıdır?",
+    "answers": ["Ag", "Au", "Fe", "Cu"],
+    "correctAnswerIndex": 1,
+    "explanation": "Qızılın kimyəvi simvolu Au-dur. Ag isə gümüşün simvoludur."
+  },
+  {
+    "id": "tech_003",
+    "category": "Texnologiya",
+    "difficulty": 3,
+    "text": "Bir bayt neçə bitdən ibarətdir?",
+    "answers": ["2", "4", "8", "16"],
+    "correctAnswerIndex": 2,
+    "explanation": "Bir bayt 8 bitdən ibarətdir."
+  },
+  {
+    "id": "math_004",
+    "category": "Riyaziyyat",
+    "difficulty": 3,
+    "text": "1-dən 10-a qədər tam ədədlər arasında neçə sadə ədəd var?",
+    "answers": ["3", "4", "5", "6"],
+    "correctAnswerIndex": 1,
+    "explanation": "Bu aralıqda sadə ədədlər 2, 3, 5 və 7-dir. 1 sadə ədəd deyil."
+  },
+  {
+    "id": "math_005",
+    "category": "Riyaziyyat",
+    "difficulty": 3,
+    "text": "Ədalətli altıüzlü zər iki dəfə atılır. Nəticələrin cəminin 7 olması ehtimalı nədir?",
+    "answers": ["1/12", "1/6", "1/4", "1/3"],
+    "correctAnswerIndex": 1,
+    "explanation": "36 bərabər ehtimallı nəticədən 6-sının cəmi 7-dir. Ehtimal 6/36 = 1/6 olur."
+  },
+  {
+    "id": "nature_001",
+    "category": "Təbiət",
+    "difficulty": 1,
+    "text": "Aşağıdakılardan hansı məməli heyvandır?",
+    "answers": ["Delfin", "Köpəkbalığı", "Ahtapot", "Pinqvin"],
+    "correctAnswerIndex": 0,
+    "explanation": "Delfin məməli heyvandır. Ağciyərlə nəfəs alır və balasını südlə bəsləyir."
+  },
+  {
+    "id": "math_006",
+    "category": "Riyaziyyat",
+    "difficulty": 1,
+    "text": "Bir saat neçə dəqiqədir?",
+    "answers": ["30", "60", "90", "100"],
+    "correctAnswerIndex": 1,
+    "explanation": "Bir saat 60 dəqiqədən ibarətdir."
+  },
+  {
+    "id": "science_005",
+    "category": "Elm",
+    "difficulty": 2,
+    "text": "Fotosintez zamanı bitkilər atmosferdən əsasən hansı qazı mənimsəyir?",
+    "answers": ["Oksigen", "Hidrogen", "Karbon qazı", "Helium"],
+    "correctAnswerIndex": 2,
+    "explanation": "Bitkilər fotosintez zamanı karbon qazından və sudan istifadə edərək üzvi maddə yaradır."
+  },
+  {
+    "id": "geo_003",
+    "category": "Coğrafiya",
+    "difficulty": 2,
+    "text": "And dağları hansı materikdə yerləşir?",
+    "answers": ["Afrika", "Avstraliya", "Şimali Amerika", "Cənubi Amerika"],
+    "correctAnswerIndex": 3,
+    "explanation": "And dağları Cənubi Amerikanın qərb hissəsi boyunca uzanır."
+  },
+  {
+    "id": "math_007",
+    "category": "Riyaziyyat",
+    "difficulty": 3,
+    "text": "Düzgün altıbucaqlının daxili bucaqlarının cəmi neçə dərəcədir?",
+    "answers": ["540", "600", "720", "900"],
+    "correctAnswerIndex": 2,
+    "explanation": "Çoxbucaqlının daxili bucaqlarının cəmi (n − 2) × 180° düsturu ilə hesablanır. Altıbucaqlı üçün nəticə 720°-dir."
+  },
+  {
+    "id": "tech_004",
+    "category": "Texnologiya",
+    "difficulty": 3,
+    "text": "Onaltılıq say sistemində FF ədədi onluq sistemdə neçədir?",
+    "answers": ["128", "255", "256", "512"],
+    "correctAnswerIndex": 1,
+    "explanation": "Onaltılıq sistemdə F rəqəmi 15-dir. FF = 15 × 16 + 15 = 255."
+  },
+  {
+    "id": "nature_002",
+    "category": "Təbiət",
+    "difficulty": 1,
+    "text": "Aşağıdakılardan hansı quşdur?",
+    "answers": ["Yarasa", "Pinqvin", "Delfin", "Kərtənkələ"],
+    "correctAnswerIndex": 1,
+    "explanation": "Pinqvin uça bilməyən quşdur. Yarasa isə məməli heyvandır."
+  },
+  {
+    "id": "math_008",
+    "category": "Riyaziyyat",
+    "difficulty": 1,
+    "text": "Bir metr neçə santimetrdir?",
+    "answers": ["10", "50", "100", "1000"],
+    "correctAnswerIndex": 2,
+    "explanation": "Bir metr 100 santimetrə bərabərdir."
+  },
+  {
+    "id": "space_002",
+    "category": "Kosmos",
+    "difficulty": 1,
+    "text": "Yerin təbii peyki hansıdır?",
+    "answers": ["Mars", "Günəş", "Venera", "Ay"],
+    "correctAnswerIndex": 3,
+    "explanation": "Ay Yerin təbii peykidir."
+  },
+  {
+    "id": "geo_004",
+    "category": "Coğrafiya",
+    "difficulty": 1,
+    "text": "Eyfel qülləsi hansı şəhərdə yerləşir?",
+    "answers": ["Paris", "Roma", "Berlin", "Madrid"],
+    "correctAnswerIndex": 0,
+    "explanation": "Eyfel qülləsi Fransanın paytaxtı Parisdə yerləşir."
+  },
+  {
+    "id": "science_006",
+    "category": "Elm",
+    "difficulty": 1,
+    "text": "İnsan bədənində qanı damarlara vuran orqan hansıdır?",
+    "answers": ["Ağciyər", "Mədə", "Ürək", "Böyrək"],
+    "correctAnswerIndex": 2,
+    "explanation": "Ürək yığılaraq qanı damar sistemi boyunca hərəkət etdirir."
+  },
+  {
+    "id": "math_009",
+    "category": "Riyaziyyat",
+    "difficulty": 1,
+    "text": "Kvadratın neçə tərəfi var?",
+    "answers": ["3", "4", "5", "6"],
+    "correctAnswerIndex": 1,
+    "explanation": "Kvadratın uzunluqları bərabər olan dörd tərəfi var."
+  },
+  {
+    "id": "easy_014",
+    "category": "Coğrafiya",
+    "difficulty": 1,
+    "text": "Türkiyənin paytaxtı hansı şəhərdir?",
+    "answers": ["İstanbul", "Ankara", "İzmir", "Bursa"],
+    "correctAnswerIndex": 1,
+    "explanation": "Türkiyənin paytaxtı Ankaradır."
+  },
+  {
+    "id": "easy_015",
+    "category": "İdman",
+    "difficulty": 1,
+    "text": "Futbolda bir komanda oyuna meydanda neçə oyunçu ilə başlayır?",
+    "answers": ["7", "9", "11", "12"],
+    "correctAnswerIndex": 2,
+    "explanation": "Standart futbolda hər komanda meydana biri qapıçı olmaqla 11 oyunçu ilə çıxır."
+  },
+  {
+    "id": "easy_016",
+    "category": "Elm",
+    "difficulty": 1,
+    "text": "Suyun bərk halı necə adlanır?",
+    "answers": ["Buxar", "Duman", "Şeh", "Buz"],
+    "correctAnswerIndex": 3,
+    "explanation": "Buz suyun bərk halıdır."
+  },
+  {
+    "id": "easy_017",
+    "category": "Riyaziyyat",
+    "difficulty": 1,
+    "text": "9 ilə 7-nin cəmi neçədir?",
+    "answers": ["16", "15", "17", "18"],
+    "correctAnswerIndex": 0,
+    "explanation": "9 + 7 = 16."
+  },
+  {
+    "id": "easy_018",
+    "category": "Təbiət",
+    "difficulty": 1,
+    "text": "Bal istehsal edən həşərat hansıdır?",
+    "answers": ["Kəpənək", "Bal arısı", "Qarışqa", "Çəyirtkə"],
+    "correctAnswerIndex": 1,
+    "explanation": "Bal arıları topladıqları nektarı emal edərək bal hazırlayır."
+  },
+  {
+    "id": "easy_019",
+    "category": "Coğrafiya",
+    "difficulty": 1,
+    "text": "Bakı hansı su hövzəsinin sahilində yerləşir?",
+    "answers": ["Qara dəniz", "Aralıq dənizi", "Xəzər dənizi", "Qırmızı dəniz"],
+    "correctAnswerIndex": 2,
+    "explanation": "Bakı Xəzər dənizinin qərb sahilində yerləşir."
+  },
+  {
+    "id": "easy_020",
+    "category": "Zaman",
+    "difficulty": 1,
+    "text": "Bir həftə neçə gündən ibarətdir?",
+    "answers": ["5", "6", "8", "7"],
+    "correctAnswerIndex": 3,
+    "explanation": "Bir həftə yeddi gündən ibarətdir."
+  },
+  {
+    "id": "medium_008",
+    "category": "Ədəbiyyat",
+    "difficulty": 2,
+    "text": "“Leyli və Məcnun” poemasının Azərbaycan dilində məşhur versiyasını hansı şair yazıb?",
+    "answers": ["Məhəmməd Füzuli", "Mirzə Ələkbər Sabir", "Səməd Vurğun", "Hüseyn Cavid"],
+    "correctAnswerIndex": 0,
+    "explanation": "Məhəmməd Füzuli “Leyli və Məcnun” poemasını Azərbaycan dilində yazıb."
+  },
+  {
+    "id": "medium_009",
+    "category": "Tarix",
+    "difficulty": 2,
+    "text": "Azərbaycan Xalq Cümhuriyyəti hansı ildə elan edilib?",
+    "answers": ["1920", "1918", "1905", "1991"],
+    "correctAnswerIndex": 1,
+    "explanation": "Azərbaycan Xalq Cümhuriyyəti 28 may 1918-ci ildə elan edilib."
+  },
+  {
+    "id": "medium_010",
+    "category": "Kosmos",
+    "difficulty": 2,
+    "text": "Günəşə ən yaxın planet hansıdır?",
+    "answers": ["Venera", "Yer", "Merkuri", "Mars"],
+    "correctAnswerIndex": 2,
+    "explanation": "Merkuri Günəşə ən yaxın planetdir."
+  },
+  {
+    "id": "medium_011",
+    "category": "Elm",
+    "difficulty": 2,
+    "text": "Normal atmosfer təzyiqində saf su təxminən neçə dərəcə Selsidə qaynayır?",
+    "answers": ["50", "75", "90", "100"],
+    "correctAnswerIndex": 3,
+    "explanation": "Normal atmosfer təzyiqində saf suyun qaynama temperaturu təxminən 100 °C-dir."
+  },
+  {
+    "id": "medium_012",
+    "category": "Coğrafiya",
+    "difficulty": 2,
+    "text": "Sahəsinə görə dünyanın ən böyük ölkəsi hansıdır?",
+    "answers": ["Rusiya", "Kanada", "Çin", "Braziliya"],
+    "correctAnswerIndex": 0,
+    "explanation": "Rusiya sahəsinə görə dünyanın ən böyük ölkəsidir."
+  },
+  {
+    "id": "medium_013",
+    "category": "Riyaziyyat",
+    "difficulty": 2,
+    "text": "3/4 kəsri neçə faizə bərabərdir?",
+    "answers": ["25%", "75%", "50%", "80%"],
+    "correctAnswerIndex": 1,
+    "explanation": "3 ÷ 4 = 0,75, yəni 75%."
+  },
+  {
+    "id": "medium_014",
+    "category": "Texnologiya",
+    "difficulty": 2,
+    "text": "HTML əsasən hansı məqsədlə istifadə olunur?",
+    "answers": ["Şəbəkə kabellərini yoxlamaq", "Şəkilləri sıxmaq", "Veb səhifənin strukturunu qurmaq", "Prosessoru soyutmaq"],
+    "correctAnswerIndex": 2,
+    "explanation": "HTML veb səhifənin məzmununu və strukturunu təsvir edən işarələmə dilidir."
+  },
+  {
+    "id": "medium_015",
+    "category": "Elm",
+    "difficulty": 2,
+    "text": "Yer atmosferində həcm payına görə ən çox olan qaz hansıdır?",
+    "answers": ["Oksigen", "Karbon qazı", "Hidrogen", "Azot"],
+    "correctAnswerIndex": 3,
+    "explanation": "Quru atmosfer havasının təxminən 78%-ni azot təşkil edir."
+  },
+  {
+    "id": "medium_016",
+    "category": "İdman",
+    "difficulty": 2,
+    "text": "Basketbolda bir komandanın eyni anda meydanda neçə oyunçusu olur?",
+    "answers": ["5", "6", "7", "11"],
+    "correctAnswerIndex": 0,
+    "explanation": "Standart basketbolda hər komandanın meydanda beş oyunçusu olur."
+  },
+  {
+    "id": "medium_017",
+    "category": "Musiqi",
+    "difficulty": 2,
+    "text": "“Koroğlu” operasının bəstəkarı kimdir?",
+    "answers": ["Qara Qarayev", "Üzeyir Hacıbəyli", "Fikrət Əmirov", "Niyazi"],
+    "correctAnswerIndex": 1,
+    "explanation": "“Koroğlu” operasının musiqisini Üzeyir Hacıbəyli bəstələyib."
+  },
+  {
+    "id": "medium_018",
+    "category": "Riyaziyyat",
+    "difficulty": 2,
+    "text": "12 və 18 ədədlərinin ən böyük ortaq böləni neçədir?",
+    "answers": ["2", "3", "6", "12"],
+    "correctAnswerIndex": 2,
+    "explanation": "Həm 12-ni, həm də 18-i bölən ən böyük müsbət tam ədəd 6-dır."
+  },
+  {
+    "id": "medium_019",
+    "category": "Coğrafiya",
+    "difficulty": 2,
+    "text": "Misir piramidaları ilə məşhur olan Giza hansı ölkədədir?",
+    "answers": ["Yunanıstan", "İraq", "Meksika", "Misir"],
+    "correctAnswerIndex": 3,
+    "explanation": "Giza piramidaları Misirdə, Qahirə yaxınlığında yerləşir."
+  },
+  {
+    "id": "medium_020",
+    "category": "Elm",
+    "difficulty": 2,
+    "text": "İnsan bədəninin ən böyük orqanı hansıdır?",
+    "answers": ["Dəri", "Qaraciyər", "Ürək", "Beyin"],
+    "correctAnswerIndex": 0,
+    "explanation": "Dəri insan bədəninin ən böyük orqanıdır."
+  },
+  {
+    "id": "hard_008",
+    "category": "Riyaziyyat",
+    "difficulty": 3,
+    "text": "log₂(32) neçədir?",
+    "answers": ["4", "5", "6", "8"],
+    "correctAnswerIndex": 1,
+    "explanation": "2⁵ = 32 olduğuna görə log₂(32) = 5."
+  },
+  {
+    "id": "hard_009",
+    "category": "Elm",
+    "difficulty": 3,
+    "text": "Karbon-14 atomunun nüvəsində neçə neytron var? Karbonun atom nömrəsi 6-dır.",
+    "answers": ["6", "7", "8", "14"],
+    "correctAnswerIndex": 2,
+    "explanation": "Neytron sayı kütlə ədədindən proton sayını çıxmaqla tapılır: 14 − 6 = 8."
+  },
+  {
+    "id": "hard_010",
+    "category": "Texnologiya",
+    "difficulty": 3,
+    "text": "Sıralanmış massivdə ikili axtarışın ən pis halda zaman mürəkkəbliyi hansıdır?",
+    "answers": ["O(n²)", "O(n)", "O(1)", "O(log n)"],
+    "correctAnswerIndex": 3,
+    "explanation": "İkili axtarış hər addımda axtarış sahəsini təxminən yarıya endirir."
+  },
+  {
+    "id": "hard_011",
+    "category": "Riyaziyyat",
+    "difficulty": 3,
+    "text": "Beş fərqli kitab bir rəfdə neçə müxtəlif ardıcıllıqla düzülə bilər?",
+    "answers": ["120", "25", "60", "100"],
+    "correctAnswerIndex": 0,
+    "explanation": "Düzülüşlərin sayı 5! = 5 × 4 × 3 × 2 × 1 = 120-dir."
+  },
+  {
+    "id": "hard_012",
+    "category": "Elm",
+    "difficulty": 3,
+    "text": "Dalğanın tezliyi 50 Hz, dalğa uzunluğu 2 metrdirsə, yayılma sürəti nə qədərdir?",
+    "answers": ["25 m/s", "100 m/s", "50 m/s", "200 m/s"],
+    "correctAnswerIndex": 1,
+    "explanation": "Dalğa sürəti v = f × λ düsturu ilə hesablanır: 50 × 2 = 100 m/s."
+  },
+  {
+    "id": "hard_013",
+    "category": "Coğrafiya",
+    "difficulty": 3,
+    "text": "Ekvatorla başlanğıc meridianın kəsişmə nöqtəsi hansı okeandadır?",
+    "answers": ["Sakit okean", "Hind okeanı", "Atlantik okeanı", "Şimal Buzlu okeanı"],
+    "correctAnswerIndex": 2,
+    "explanation": "0° enlik və 0° uzunluq nöqtəsi Atlantik okeanının Qvineya körfəzi hissəsində yerləşir."
+  },
+  {
+    "id": "hard_014",
+    "category": "Texnologiya",
+    "difficulty": 3,
+    "text": "IPv4 ünvanı neçə bitdən ibarətdir?",
+    "answers": ["16", "64", "128", "32"],
+    "correctAnswerIndex": 3,
+    "explanation": "IPv4 ünvanı dörd 8 bitlik hissədən, ümumilikdə 32 bitdən ibarətdir."
+  },
+  {
+    "id": "hard_015",
+    "category": "Riyaziyyat",
+    "difficulty": 3,
+    "text": "Bir ədəd əvvəl 20% artırılır, sonra alınan nəticə 20% azaldılır. İlkin ədədlə müqayisədə nəticə necə dəyişir?",
+    "answers": ["4% azalır", "Dəyişmir", "4% artır", "20% azalır"],
+    "correctAnswerIndex": 0,
+    "explanation": "İlkin ədədi 100 götürsək: 100 × 1,2 × 0,8 = 96. Nəticə 4% azalır."
+  },
+  {
+    "id": "hard_016",
+    "category": "Elm",
+    "difficulty": 3,
+    "text": "pH şkalasında pH 3 olan məhlulda hidrogen ionlarının konsentrasiyası pH 5 olan məhluldan neçə dəfə çoxdur?",
+    "answers": ["2", "100", "10", "1000"],
+    "correctAnswerIndex": 1,
+    "explanation": "pH fərqi 2-dir. Konsentrasiyalar arasındakı nisbət 10² = 100 olur."
+  },
+  {
+    "id": "hard_017",
+    "category": "Ədəbiyyat",
+    "difficulty": 3,
+    "text": "“İlahi komediya” əsərinin müəllifi kimdir?",
+    "answers": ["Françesko Petrarka", "Covanni Bokkaçço", "Dante Aligyeri", "Migel de Servantes"],
+    "correctAnswerIndex": 2,
+    "explanation": "“İlahi komediya” italyan şairi Dante Aligyerinin əsəridir."
+  },
+  {
+    "id": "hard_018",
+    "category": "Riyaziyyat",
+    "difficulty": 3,
+    "text": "x² − 5x + 6 = 0 tənliyinin köklərinin cəmi neçədir?",
+    "answers": ["2", "3", "6", "5"],
+    "correctAnswerIndex": 3,
+    "explanation": "Tənliyin kökləri 2 və 3-dür. Onların cəmi 5-dir."
+  },
+  {
+    "id": "hard_019",
+    "category": "Elm",
+    "difficulty": 3,
+    "text": "Radioaktiv nümunənin yarımparçalanma müddəti 10 gündür. 30 gündən sonra ilkin nümunənin hansı hissəsi parçalanmamış qalar?",
+    "answers": ["1/8", "1/3", "1/4", "1/6"],
+    "correctAnswerIndex": 0,
+    "explanation": "30 gündə üç yarımparçalanma müddəti keçir: (1/2)³ = 1/8."
+  },
+  {
+    "id": "hard_020",
+    "category": "Texnologiya",
+    "difficulty": 3,
+    "text": "Verilənlər bazasında xarici açarın əsas məqsədi nədir?",
+    "answers": [
+      "Bütün sorğuları avtomatik sürətləndirmək",
+      "Cədvəllər arasında istinad bütövlüyünü təmin etmək",
+      "Məlumatları avtomatik şifrələmək",
+      "Hər sütunu unikal etmək"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Xarici açar əlaqəli cədvəldə mövcud olan açar dəyərlərinə istinadı təmin etməyə xidmət edir."
+  }
+]
